@@ -1,0 +1,51 @@
+body{
+		background-image:url('flowers.jpg');
+		background-size:250pt;
+		background-position: bottom right;
+		background-repeat: repeat-y;
+		background-attachment: fixed;
+		background-color: palegoldenrod;
+	}
+
+	p{
+		font-size: 2pt;
+		color:black;
+		text-indent: 10em;
+	}
+
+	h1{
+		font-family: fantasy;
+		color:rebeccapurple;
+	}
+
+	.dark{
+		font-size: 10pt;
+		color:red;
+		font-weight:bold
+	}
+
+	div{
+		padding-top:20px;
+		padding-right:20px;
+		padding-bottom:20px;
+		padding-left:20px;
+	}
+
+	div.outset{
+		border-style:outset;
+		margin-top:10pt;
+		margin-right:600pt;	}
+
+	.floated{
+		background-color:lightgrey;
+		font-size:1.5em;
+		font-family:sans-serif;
+		padding:.2em;
+		margin-left:.5em;
+		margin-bottom:.5em;
+		float:right;
+		text-align:middle;
+		width:20;
+	}
+
+	
