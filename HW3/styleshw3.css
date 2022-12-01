@@ -1,0 +1,34 @@
+body{
+    background-color: aliceblue;
+    background-attachment: fixed;
+    display: inline-block;
+}
+
+h5{
+	font-size: 10pt;
+	font-family: monospace;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.inputType{
+	margin-left: 3%;
+	display: inline-block;
+}
+
+.special{
+	margin-left: 2.5%;
+	display: inline-block;
+}
+
+.float{
+	float: initial;
+	margin-left: 7%;
+	margin-top: 0;
+}
+
+.textarea{
+	text-align: right;
+	display: inline-block
+}
